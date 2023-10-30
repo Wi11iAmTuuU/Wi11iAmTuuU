@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=F79BDD&center=true&vCenter=true&width=435&lines=Welcome+to+Wi11iAmTuuU's+Github;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0WilliamTuuu%E7%9A%84Github%F0%9F%90%98)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wi11iAmTuuU&show_icons=true&theme=dracula)
+### My Activities
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wi11iAmTuuU&theme=dracula)  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wi11iAmTuuU&theme=dracula)](https://git.io/streak-stats)
